@@ -1,0 +1,4 @@
+export const SET_VINO_LIST = 'SET_VINO_LIST';
+export const FILTRO_VINO_LIST = 'FILTRO_VINO_LIST';
+export const DELETE_VINO_LIST = 'DELETE_VINO_LIST';
+export const UPDATE_VINO_LIST = 'UPDATE_VINO_LIST';
